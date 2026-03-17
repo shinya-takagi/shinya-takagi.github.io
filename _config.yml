@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Shinya Takagi"
   pronouns         : "he/his" # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Nuclear reaction theorist. Fission and synthesis of superheavy nuclei."
   location         : "Japan"
   employer         : "Kindai University"
-  uri              : # URL
+  uri              : "https://shinya-takagi.github.io" # URL
   email            : "shinya_takagi@kindai.ac.jp" 
 
   # Academic websites
@@ -57,8 +57,8 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : # Username
+  facebook         : "stakagi8" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
